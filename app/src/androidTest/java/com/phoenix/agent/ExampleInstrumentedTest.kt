@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 package com.phoenix.agent
 
 import androidx.test.platform.app.InstrumentationRegistry
